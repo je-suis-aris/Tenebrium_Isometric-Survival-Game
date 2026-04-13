@@ -413,25 +413,3 @@ This view shows the hostile presence that drives the survival side of the game. 
 </p>
 
 ---
-
-## <span style="color:gray;">FUTURE IMPROVEMENTS</span>
-
-<div align="justify">
-
-- More resource types and crafting recipes
-- Expanded enemy variety with different behaviors
-- Better progression systems and mission objectives
-- Smarter ally behavior after zombie conversion
-- Day/night cycle and stronger environmental storytelling
-- More polished combat effects and animation blending
-- Save/load support for long-term progression
-
-</div>
-
----
-
-## <span style="color:gray;">FINAL NOTES</span>
-
-<p align="justify">
-Tenebrium is a complete gameplay prototype that demonstrates how multiple Unity systems can be combined into one consistent survival experience. It includes movement, interaction, inventory, combat, AI, procedural spawning, UI and menu systems in a structure that is already playable and easy to expand. The project was designed both as a functional game prototype and as a technical exercise in building interconnected gameplay systems in Unity.
-</p>
